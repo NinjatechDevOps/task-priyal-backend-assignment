@@ -1,5 +1,11 @@
-node_modules
-# Keep environment variables out of version control
-.env
-out/*
-.vercel
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+node_modules/
+bin/
+obj/
+.vs/
